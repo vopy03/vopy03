@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/volodymyr_py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="volodymyr_py" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/volodymyr pylypchuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="volodymyr pylypchuk" height="30" width="40" /></a>
+<a href="https://fb.com/volodymyr.pylypchuk.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="volodymyr.pylypchuk.01" height="30" width="40" /></a>
 <a href="https://instagram.com/volodymyr_.pylypchuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="volodymyr_.pylypchuk" height="30" width="40" /></a>
 </p>
 
