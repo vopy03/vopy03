@@ -1,7 +1,11 @@
+[![MasterHead](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)](https://github.com/vopy03)
+
 <h1 align="center">Hi 👋, I'm Volodymyr Pylypchuk</h1>
 <h3 align="center">JS developer, Web developer, student and just someone who likes to code. Also i am from Ukraine 🇺🇦🇺🇦🇺🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vopy03&label=Profile%20views&color=0e75b6&style=flat" alt="vopy03" /> </p>
+
+<div class="list">
 
 - 🔭 I’m currently working on [TNTU Schedule](https://github.com/vopy03/tntu-schedule)
 
@@ -12,6 +16,8 @@
 - 📫 How to reach me **vova.pilipchuk2003@gmail.com**
 
 - ⚡ Fun fact **i am left handed**
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
