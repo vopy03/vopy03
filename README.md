@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vova.pilipchuk2003@gmail.com**
   
-- 👨‍💻 All of my projects are available at [www.vopy.top](www.vopy.top)
+- 👨‍💻 All of my projects are available at [www.vopy.top](https://www.vopy.top)
 
 - ⚡ Fun fact **i am left handed**
 
